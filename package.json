@@ -1,7 +1,6 @@
 {
   "name": "@edx/brand",
-  "version": "1.0.0",
-  "description": "CBA Production Brand for Open edX Ulmo",
+  "version": "1.0.5",
   "main": "index.js",
   "license": "MIT"
 }
