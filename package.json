@@ -1,5 +1,5 @@
 {
-  "name": "@cba/brand",
+  "name": "@edx/brand",
   "version": "1.0.0",
   "description": "CBA custom brand for Open edX MFEs",
   "main": "index.js",
