@@ -1,7 +1,7 @@
 {
   "name": "@edx/brand",
   "version": "1.0.0",
-  "description": "CBA custom brand for Open edX MFEs",
+  "description": "CBA Production Brand for Open edX Ulmo",
   "main": "index.js",
-  "license": "ISC"
+  "license": "MIT"
 }
