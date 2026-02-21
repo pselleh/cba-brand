@@ -1,0 +1,7 @@
+{
+  "name": "@cba/brand",
+  "version": "1.0.0",
+  "description": "CBA custom brand for Open edX MFEs",
+  "main": "index.js",
+  "license": "ISC"
+}
