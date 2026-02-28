@@ -1,0 +1,6 @@
+[project]
+name = "cba-brand"
+version = "0.1.0"
+
+[project.entry-points."tutor.plugin.v1"]
+cba-brand = "cba_brand.plugin"

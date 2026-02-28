@@ -1,0 +1,9 @@
+pyproject.toml
+setup.py
+cba_brand/__init__.py
+cba_brand/plugin.py
+cba_brand.egg-info/PKG-INFO
+cba_brand.egg-info/SOURCES.txt
+cba_brand.egg-info/dependency_links.txt
+cba_brand.egg-info/entry_points.txt
+cba_brand.egg-info/top_level.txt

@@ -1,0 +1,53 @@
+// ==========================================
+// CBA MODERN BRAND TOKENS (Ulmo Compatible)
+// ==========================================
+
+// ------------------------------------------
+// Base Brand Colors
+// ------------------------------------------
+
+$brand-primary: #004080;
+$brand-secondary: #f58220;
+
+// ------------------------------------------
+// CSS Variable Overrides (Used by MFEs)
+// ------------------------------------------
+
+:root {
+  --pgn-color-brand-primary: #004080;
+  --pgn-color-brand-secondary: #f58220;
+
+  --pgn-color-link: #004080;
+  --pgn-color-link-hover: #003060;
+
+  --pgn-color-btn-primary-bg: #004080;
+  --pgn-color-btn-primary-border: #004080;
+  --pgn-color-btn-primary-hover-bg: #003060;
+
+  --pgn-border-radius: 4px;
+}
+
+// ------------------------------------------
+// Optional Typography Override
+// ------------------------------------------
+
+body {
+  font-family: 'IBMPlexSans', sans-serif;
+}
+
+// ------------------------------------------
+// Navbar Customization
+// ------------------------------------------
+
+.navbar,
+.pgn__navbar {
+  background-color: #004080;
+}
+
+// ------------------------------------------
+// Footer Styling
+// ------------------------------------------
+
+footer {
+  background-color: #f5f5f5;
+}
