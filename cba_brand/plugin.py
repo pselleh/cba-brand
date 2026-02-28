@@ -5,7 +5,7 @@ hooks.Filters.ENV_PATCHES.add_item((
     "mfe-dockerfile-post-npm-install",
     r"""
 # Install CBA brand package
-RUN npm install --no-save @cba/brand
+RUN npm install --no-save git+https://github.com/pselleh/cba-brand.git
 """
 ))
 
